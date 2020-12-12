@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>popup_contact_mail</name>
+    <displayName><![CDATA[popup contact mail]]></displayName>
+    <version><![CDATA[9.9.9]]></version>
+    <description><![CDATA[Popup de contacto que envia mail al backend de prestashop]]></description>
+    <author><![CDATA[DanielC]]></author>
+    <tab><![CDATA[social_networks]]></tab>
+	<confirmUninstall><![CDATA[Desinstalacion con exito]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
