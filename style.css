@@ -1,0 +1,27 @@
+<button class="contact-us">Contáctanos</button>
+<style>
+    .contact-us{
+        padding: 6px 15px;
+        background: #428bca;
+        color: #ffffff;
+        border: #428bca;
+        transition: linear 0.1s;
+        border-radius: 6px;
+        right: 80px;
+        bottom: 50px;
+        position: fixed;
+        z-index: 99;
+    }
+    .contact-us:hover{
+        padding: 6px 15px;
+        background: #1c609b;
+        color: #ffffff;
+        border: #428bca;
+        border-radius: 8px;
+        cursor: pointer;
+        right: 80px;
+        bottom: 50px;
+        position: fixed;
+        z-index: 99;
+    }
+</style>
